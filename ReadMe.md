@@ -1,0 +1,1 @@
+Install numpy , pandas , matplotlib , pandas-datareader , tensorflow , sklearn , scikit-learn
